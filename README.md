@@ -26,4 +26,11 @@
  *
  * Weather Tracker delivers a user-friendly experience with a clean UI closely aligned to provided Figma designs,
  * offering users accurate and reliable weather information.
+
+
+ * for setup
+ * latest android studio with Android Studio Ladybug | 2024.2.1 Patch 3
+ * and necessay libs are in file
+
  */
+ 
